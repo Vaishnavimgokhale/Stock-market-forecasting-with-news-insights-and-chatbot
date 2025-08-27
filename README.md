@@ -3,7 +3,7 @@
 This project is an intelligent web application designed to help users navigate the stock market by providing **predictive analytics** and **sentiment insights** from news.  
 
 Built with **Streamlit**, the application integrates multiple components:  
-- An advanced **ensemble forecasting model**  
+- **ensemble forecasting model**  
 - A **real-time news sentiment analyzer**  
 - An interactive **chatbot powered by Google Gemini**  
 
