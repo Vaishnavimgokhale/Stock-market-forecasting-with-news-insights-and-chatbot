@@ -70,6 +70,7 @@ Install dependencies:
    FINNHUB_API_KEY="your_finnhub_api_key"
 
 ▶️ Running the Application
+<br>
    Start the Streamlit app:
        streamlit run app.py
     
